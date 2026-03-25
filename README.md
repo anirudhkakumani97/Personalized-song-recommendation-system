@@ -156,8 +156,7 @@ streamlit run app/spotify_application.py
 
 ### 4. Open in browser
 After running, the app will open automatically.  
-If not, go to:
-http://localhost:8501
+If not, go to: http://localhost:8501  
 
 ---
 
